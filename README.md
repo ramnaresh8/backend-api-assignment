@@ -1,4 +1,4 @@
-# backend-api-assignment
+# Backend-api-assignment
 
 # API Endpoints
 
@@ -44,7 +44,7 @@
   ```json
   {
     "name": "string",
-    "parent": "string" 
+    "parent": "string"
   }
   ```
 
@@ -66,7 +66,7 @@
 ```json
 {
   "name": "string",
-  "parent": "string" 
+  "parent": "string"
 }
 ```
 
