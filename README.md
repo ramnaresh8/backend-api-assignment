@@ -92,13 +92,13 @@
 - **Endpoint:** `GET ` `/api/images`
 - **Request Body: None**
 
-## Get Image by Id
+### Get Image by Id
 
 - **Endpoint:** `GET ` `/api/images/:id`
 
 - **URL Parameter:** `id:` `ObjectId of the image`
 
-## Update Image
+### Update Image
 
 - **Endpoint:** `PUT ` `/api/images/:id`
 
@@ -110,14 +110,14 @@
   }
   ```
 
-  ## Delete Image
+  ### Delete Image
 
 - **Endpoint:** `DELETE ` `/api/images/:id`
 - **URL Parameter:** `id:` `ObjectId of the image`
 
 ## Search Endpoints
 
-## Search Images
+### Search Images
 
 - **Endpoint:** `GET ` `/api/images/search`
 
