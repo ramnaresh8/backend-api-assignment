@@ -56,6 +56,5 @@ exports.loginUser = async (req, res) => {
 };
 
 exports.logoutUser = (req, res) => {
-  // Implement logout logic (e.g., token invalidation)
   res.json({ message: "User logged out" });
 };

@@ -44,7 +44,7 @@
   ```json
   {
     "name": "string",
-    "parent": "string" // Optional, ObjectId of parent folder
+    "parent": "string" 
   }
   ```
 
@@ -66,7 +66,7 @@
 ```json
 {
   "name": "string",
-  "parent": "string" // Optional, ObjectId of parent folder
+  "parent": "string" 
 }
 ```
 
@@ -107,7 +107,6 @@
   ```json
   {
     "name": "string"
-    // Optional: Image file if updating the image itself
   }
   ```
 
